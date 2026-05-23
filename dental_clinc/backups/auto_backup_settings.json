@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "interval": "Daily",
+  "time": "03:00",
+  "max_backups": 30
+}

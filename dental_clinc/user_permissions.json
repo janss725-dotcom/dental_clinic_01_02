@@ -1,0 +1,30 @@
+{
+  "afg2": {
+    "patients_add": true,
+    "patients_view": true,
+    "emr_view": true,
+    "settings_access": true,
+    "treatment_plan_view": true
+  },
+  "new": {
+    "patients_add": true,
+    "patients_view": true,
+    "emr_view": true,
+    "settings_access": true,
+    "treatment_plan_view": true
+  },
+  "afg1": {
+    "patients_add": true,
+    "patients_view": true,
+    "emr_view": true,
+    "settings_access": true,
+    "treatment_plan_view": true
+  },
+  "janm": {
+    "patients_add": true,
+    "patients_view": true,
+    "emr_view": true,
+    "settings_access": true,
+    "treatment_plan_view": true
+  }
+}
